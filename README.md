@@ -32,6 +32,5 @@ Hi, I'm **Michal Repcik**, a Software Developer and Computer Science student at 
 
   <!-- GitHub Stats and Top Languages -->
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=rm-a0&show_icons=true&include_all_commits=true&locale=en&theme=github_dark&card_width=495" alt="rm-a0" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rm-a0&show_icons=true&locale=en&layout=compact&theme=github_dark&card_width=495&langs_count=6&hide=html,css" alt="rm-a0" />
 </p>
