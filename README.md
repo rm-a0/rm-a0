@@ -1,5 +1,5 @@
 ## Hi, I'm **Michal Repčík**
-ML/AI engineer with a focus on software architecture. Computer Science student at Brno University of Technology.
+ML/AI engineer focused on software architecture. Computer Science student at Brno University of Technology.
 
 <p align="center">
   <img height="150%" width="auto" src="https://github-readme-stats.vercel.app/api?username=rm-a0&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF" alt="rm-a0 stats" />
